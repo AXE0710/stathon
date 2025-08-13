@@ -28,7 +28,7 @@ export const Hero: React.FC = () => {
           </h1>
           
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto leading-relaxed animate-fade-in-up delay-400">
-            Accugov streamlines government operations with AI-powered data preparation, automated estimation, and intelligent report generation. Transform complex datasets into actionable insights with enterprise-grade security and compliance.
+            Accugov streamlines government survey operations with AI-powered data preparation, automated estimation, and intelligent report generation. Transform complex datasets into actionable insights with enterprise-grade security and compliance.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-6 mb-16 animate-fade-in-up delay-600">
